@@ -1,5 +1,5 @@
 
-<img align="right" width="150" height="150" src=w4x_logo_transparent_by_DECHEMA.png>
+<img align="right" width="150" height="150" src=images/w4x_logo_transparent_by_DECHEMA.png>
 
 # Water Management and the energy transition
 
@@ -19,7 +19,7 @@ DECHEMA has bundled various aspects of the energy transition with regard to wate
 # Reverse-Osmosis-Model
 Matlab based Model for RO [4]
 
-![2-pass RO](2PASSRO.png)
+![2-pass RO](images/2PASSRO.png)
 
 # Source
 [1] Geres, R., Kohn, A., Lenz, S. C., Ausfelder, F., Bazzanella, A., Möller, A., (2019). Future Camp Climate GmbH, DECHEMA, Roadmap Chemie 2050 auf dem Weg zu einer treibhausgasneutralen chemischen Industrie in Deutschland, ISBN: 978-3-89746-223-6
